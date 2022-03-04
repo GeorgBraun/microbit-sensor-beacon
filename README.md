@@ -46,7 +46,7 @@ as Eddystone-URL accoring to the pattern
 In this example, 
 
 * `-0.1` represents an x-value of -0.1&nbsp;g
-* `-0.8` represents a y-value of -0.8&nbps;g
+* `-0.8` represents a y-value of -0.8&nbsp;g
 * `-0.6` represents a z-value of -0.6&nbsp;g
 
 The individual values are limited to a maximum of one decimal digit. This is important to keep the overall length of the URL 

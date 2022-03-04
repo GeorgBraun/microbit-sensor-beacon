@@ -53,7 +53,7 @@ def on_forever():
     if tempMode:
         tempC = str(input.temperature())
         serial.write_line(tempC)
-        bluetooth.advertise_url("http://temp/" + tempC + "/", 7, False)
+        bluetooth.advertise_url("http://temp/" + tempC, 7, False)
         basic.pause(1000)
     else:
         # accelerometer values range from 0 to 1023 as integer values,

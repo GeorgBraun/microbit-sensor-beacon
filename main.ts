@@ -58,7 +58,7 @@ basic.forever(function on_forever() {
     if (tempMode) {
         tempC = "" + input.temperature()
         serial.writeLine(tempC)
-        bluetooth.advertiseUrl("http://temp/" + tempC + "/", 7, false)
+        bluetooth.advertiseUrl("http://temp/" + tempC, 7, false)
         basic.pause(1000)
     } else {
         //  accelerometer values range from 0 to 1023 as integer values,
