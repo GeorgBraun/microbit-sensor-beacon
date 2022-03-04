@@ -60,7 +60,9 @@ new measurement data.
 When button A is pressed, **temperature mode** is selected.
 
 
-### Board Versions
+### Hex File and Board Versions
+
+The current hex file can be fetched as [microbit-sensor-beacon.hex](https://github.com/GeorgBraun/microbit-sensor-beacon/raw/master/microbit-sensor-beacon.hex).
 
 The program has been tested on micro:bit boards version 1.3B. Other versions should be okay, too, but have not been tested so far.
 
