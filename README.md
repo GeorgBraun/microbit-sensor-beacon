@@ -67,6 +67,17 @@ The current hex file can be fetched as [microbit-sensor-beacon.hex](https://gith
 The program has been tested on micro:bit boards version 1.3B. Other versions should be okay, too, but have not been tested so far.
 
 
+### Related Work
+
+This work was inspired by a blog post by Atharva Inamdar from Sep 5, 2020, on medium.com: [BBC micro:bit as a Wireless Sensor](https://medium.com/analytics-vidhya/bbc-micro-bit-as-a-wireless-sensor-2624078137a0)
+
+&nbsp;
+
+---
+
+The following section was automatically added by the MakeCode-Editor.
+
+---
 
 ## Use as Extension
 
